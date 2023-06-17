@@ -1,4 +1,3 @@
-Exploratory Data Analysis and Clustering & Predictive Modelling applied to Parkisons Data Set.
 {
   "nbformat": 4,
   "nbformat_minor": 0,

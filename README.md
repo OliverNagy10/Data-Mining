@@ -1,4 +1,4 @@
-# Exploratory Data Analysis and Clustering & Predictive Modelling were preformed on parkinsons dataset
+# Exploratory Data Analysis and Clustering & Predictive Modelling preformed on parkinsons dataset
 
 This project involves the exploration and analysis of a dataset to perform predictive analytics tasks. 
 
